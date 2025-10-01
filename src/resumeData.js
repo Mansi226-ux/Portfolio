@@ -2,46 +2,55 @@ let resumeData = {
    
   "name": "Mansi Sahu",
   "role": "Frontend Developer",
-  "linkedinId": "https://www.linkedin.com/in/mansi-sahu-1354b630a?",
+  "mailId": "sahumansi7569@gmail.com",
+  "contactNumber": "+91 7995957569",
   "skypeid": "https://www.facebook.com/profile.php?id=61558975799201",
   "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
   "socialLinks": [
     {
-      "name": "linkedin",
-      "url": "https://www.linkedin.com/in/mansi-sahu-1354b630a?",
+      "name": "linkedIn",
+      "url": "https://www.linkedin.com/in/mansi-sahu-1354b630a",
       "className": "fa fa-linkedin"
     },
     {
       "name": "intagram",
-      "url": "https://www.instagram.com/invites/contact/?igsh=oo5rrhm3th&utm_ content=ng22pff",
+      "url": "https://www.instagram.com/man_shi_sahu_23?utm_source=qr&igsh=MXhId3phOHkwajRrZA==",
       "className": "fa fa-instagram"
     },
     {
       "name": "skype",
-      "url": "https://www.facebook.com/profile.php?id=61558975799201",
-      "className": "fa fa-facebook"
+      "url": "https://github.com/Mansi226-ux",
+      "className": "fa fa-github"
     }
   ],
   "aboutme": "I am currently a pre-final year student at The DAVV University and pursuing my MSC from here. I am a self taught frontend Web Developer, currently diving deeper into Backend  Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
   "address": "India",
-  "website": "https://msahu6.github.io",
+  "website": "https://github.com/Mansi226-ux/Portfolio",
   "education": [
     {
-      "UniversityName": "Davi Ahilya Vishv vidhyalay",
+      "UniversityName": "Government Holkar Science College, Indore",
+      "specialization": "MSc. in Computer Science",
       "MonthOfPassing": "july",
-      "YearOfPassing": "2024",
+      "YearOfPassing": "2026",
       "Achievements": " Awarded the university’s Distinguished Research Grant for innovative projects on renewable energy resources."
-    }
-    /*
+    },
     {
-      "UniversityName":"Some University",
-      "specialization":"Some specialization",
+      "UniversityName":"Government Holkar Science College, Indore",
+      "specialization":"BSc. in Computer Science",
       "MonthOfPassing":"July",
       "YearOfPassing":"2024",
-      "Achievements":"Some Achievements"
-    }*/
+      "Achievements":" Awarded the university’s Distinguished Research Grant for innovative projects on renewable energy resources."
+    }
   ],
   "work": [
+     
+      {
+        "CompanyName":"Zidio Develelopment Pvt Ltd",
+        "specialization":"Some specialization",
+        "MonthOfLeaving":"Aug",
+        "YearOfLeaving":"2025",
+        "Achievements":"During my internship, I had the opportunity to work on two major full-stact projects that helped me grow both technicall and professionally. Excel Analytics platform i built a compelete ata visualization like file upload & parsing using Node.js and xlsx Real-time 2D/3D chart rendering using chart.js and Three.js, Exporting charts as PNG, JPEG and PDF AI-based suggestions  from structured data. * Blogging Platform (Voxa Blog) i developed a full-featured blogging system with rich content creation and social features like Authentication using JWT and role-based access control image uploads using Cloudinary and content editing with  React-Quill Like, Comment, and Profile systems for user engagement."
+      },
     {
       "CompanyName": "YPSILON IT SOLUTION",
       "specialization": "Designed and tested UI Component for web applications, utilizing HTML, CSS, JavaScript , BootStrap and React JS  to enhance user experience.",
@@ -49,59 +58,58 @@ let resumeData = {
       "YearOfLeaving": "2024",
       "Achievements": "Developed REST fullservices using Node.js and Express, integrating JSON Web Token for secure authorization mechanisms.  *Designed and tested UI Component for web applications, utilizing HTML, CSS, JavaScript, BootStrap and React JS  to enhance user experience.  *Validate input before submitting to the backend.  *Translated user and business needs into functional front - end design using Javascript, HTML, and CSS.  *Worked on the development of user interface for Stealth(identity) from scratch."
     }
-      /*
-      {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
-      }*/
+      
     ],
 "skillsDescription": "My skills here",
   "skills": [
-    {
-      "skillname": "HTML"
+     {
+      "skillname": "html"
     },
     {
-      "skillname": "CSS"
+      "skillname": "css"
     },
     {
-      "skillname": "Java Script"
+      "skillname": "javascript"
     },
     {
-      "skillname": "Reactjs"
+      "skillname": "reactjs"
     },
     {
-      "skillname": "Nodejs"
+      "skillname": "nodejs"
     },
     {
       "skillname": "express"
     },
     {
-      "skillname": "mongoodb"
-    }
+      "skillname": "mongoodb"  
+     },
+     {
+      "skillname": "tailwindcss"
+     },
+      {
+      "skillname": "bootstrap"
+      }
   ],
     "portfolio": [
       {
-        "name": "Ecommerce Website",
-        "description": "	Designed a web application that simplifies the online shopping experience, making it easier for customers to buy latest clothing products. Implemented firebase authentication for login and register. Built a profile visualizer website using ReactJS.",
+        "name": "Voxa Blog",
+        "description": "Developed a full-featured blogging system with rich content creation and social features.",
+        "imgurl": "images/Voxa.png.png"   
+     },
+      {
+        "name": "Excel Analytics Platform",
+        "description": "I builded a complete data visualization tool with real-time 2D/3D chart rendering and AI-based suggestions.",
+        "imgurl": "images/Surfacechart.png.png"
+      },
+      {
+        "name": "E-commerce Website",
+        "description": "An e-commerce website with features like product listing, user authentication, and payment integration.",
         "imgurl": "images/portfolio/ecommerceimg.avif"
       },
       {
-        "name": "project2",
-        "description": "carvila",
-        "imgurl": "images/portfolio/farmerboy.jpg"
-      },
-      {
-        "name": "project3",
-        "description": "todo list",
-        "imgurl": "images/portfolio/judah.jpg"
-      },
-      {
-        "name": "project4",
-        "description": "portfolio",
-        "imgurl": "images/portfolio/into-the-light.jpg"
+        "name": "Job-Posting Platform",
+        "description": "A job-posting platform that connects employers with potential candidates, featuring job listings, applications, and user profiles.",
+        "imgurl": "images/jobpost.webp"
       }
     ],
       "testimonials": [

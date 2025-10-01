@@ -207,8 +207,8 @@ ul#nav li.current a { color: #F06000; }
 }
 #about .profile-pic {
    position: relative;
-   width: 120px;
-   height: 120px;
+   width: 420px;
+   height: 220px;
    border-radius: 100%;
 }
 #about .contact-details { width: 41.66667%; }
@@ -325,38 +325,28 @@ ul#nav li.current a { color: #F06000; }
    border-radius: 3px 0 0 3px;
 }
 
-.photoshop{
-  	width: 60%;
-  	-moz-animation: photoshop 2s ease;
-  	-webkit-animation: photoshop 2s ease;
+.html{
+  	width: 80%;
+  	-moz-animation: html 2s ease;
+  	-webkit-animation: html 2s ease;
 }
-.illustrator {
+.css {
   	width: 55%;
-  	-moz-animation: illustrator 2s ease;
-  	-webkit-animation: illustrator 2s ease;
+  	-moz-animation: css 2s ease;
+  	-webkit-animation: css 2s ease;
 }
-.wordpress {
-  	width: 50%;
-  	-moz-animation: wordpress 2s ease;
-  	-webkit-animation: wordpress 2s ease;
+.reactjs {
+  	width: 80%;
+  	-moz-animation: reactjs 2s ease;
+  	-webkit-animation: reactjs 2s ease;
 }
-.java{
-   width: 65%;
+.javascript{
+   width: 75%;
    -moz-animation: css 2s ease;
    -webkit-animation: css 2s ease;
 }
 .nodejs {
    width: 50%;
-   -moz-animation: css 2s ease;
-   -webkit-animation: css 2s ease;
-}
-.html {
-   width: 90%;
-   -moz-animation: css 2s ease;
-   -webkit-animation: css 2s ease;
-}
-.css {
-   width: 90%;
    -moz-animation: css 2s ease;
    -webkit-animation: css 2s ease;
 }
@@ -371,65 +361,69 @@ ul#nav li.current a { color: #F06000; }
    -moz-animation: css 2s ease;
    -webkit-animation: css 2s ease;
 }
-.reactjs {
-  	width: 80%;
-  	-moz-animation: css 2s ease;
-  	-webkit-animation: css 2s ease;
-}
- 
 .html5 {
   	width: 80%;
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
+.tailwindcss {
+  	width: 50%;
+  	-moz-animation: html5 2s ease;
+  	-webkit-animation: html5 2s ease;
+}
+.bootstrap {
+  	width: 55%;
+  	-moz-animation: html5 2s ease;
+  	-webkit-animation: html5 2s ease;
+}
  
 
-@-moz-keyframes photoshop {
+@-moz-keyframes html {
   0%   { width: 0px;  }
   100% { width: 60%;  }
-}
-@-moz-keyframes illustrator {
-  0%   { width: 0px;  }
-  100% { width: 55%;  }
-}
-@-moz-keyframes wordpress {
-  0%   { width: 0px;  }
-  100% { width: 50%;  }
 }
 @-moz-keyframes css {
   0%   { width: 0px;  }
+  100% { width: 55%;  }
+}
+@-moz-keyframes reactjs {
+  0%   { width: 0px;  }
+  100% { width: 50%;  }
+}
+@-moz-keyframes javascript {
+  0%   { width: 0px;  }
   100% { width: 90%;  }
 }
-@-moz-keyframes html5 {
+@-moz-keyframes nodejs {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-moz-keyframes jquery {
+@-moz-keyframes express {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
 
-@-webkit-keyframes photoshop {
+@-webkit-keyframes html {
   0%   { width: 0px;  }
   100% { width: 60%;  }
 }
-@-webkit-keyframes illustrator {
+@-webkit-keyframes css {
   0%   { width: 0px;  }
   100% { width: 55%;  }
 }
-@-webkit-keyframes wordpress {
+@-webkit-keyframes reactjs {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
-@-webkit-keyframes css {
+@-webkit-keyframes javascript {
   0%   { width: 0px;  }
   100% { width: 90%;  }
 }
-@-webkit-keyframes html5 {
+@-webkit-keyframes nodejs {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-webkit-keyframes jquery {
+@-webkit-keyframes  express {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
@@ -453,6 +447,7 @@ ul#nav li.current a { color: #F06000; }
 }
 
 /* Portfolio Content */
+#portfolio .item-wrap img { width: 100%; height: 150px; }
 #portfolio-wrapper .columns { margin-bottom: 36px; }
 .portfolio-item .item-wrap {
    background: #fff;
@@ -489,6 +484,7 @@ ul#nav li.current a { color: #F06000; }
 
    background: url(../images/overlay-bg.png) repeat;
 }
+ 
 .portfolio-item .item-wrap .link-icon {
    display: block;
    color: #fff;
@@ -497,6 +493,7 @@ ul#nav li.current a { color: #F06000; }
    font-size: 18px;
    line-height: 30px;
    text-align: center;
+    
 
    opacity: 0;
 	-moz-opacity: 0;
@@ -845,7 +842,7 @@ call-to-action .button {
    color: #ebeeee;
 }
 
-#contact h4 {
+#contact h4, h5 {
    font: 16px/24px 'opensans-bold', sans-serif;
    color: #EBEEEE;
    margin-bottom: 6px;
