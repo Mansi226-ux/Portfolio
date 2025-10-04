@@ -114,12 +114,16 @@ let resumeData = {
     ],
       "testimonials": [
         {
-          "description": "This is a sample testimonial",
-          "name": "Some technical guy"
+          "description": "The UI is smooth, responsive, and user-friendly. The attention to detail and use of modern React components really make the interface stand out. Great sense of design and functionality",
+          "name": "John Wangdu – Software Engineer at TechNova"
         },
         {
-          "description": "This is a sample testimonial",
-          "name": "Some technical guy"
+          "description": "I loved the clean layout and fast performance of this project. The transitions and animations feel professional, and the code structure is well-organized. It’s a great example of how React can be used to build elegant user interfaces.",
+          "name": "John wangdu – Frontend Developer"
+        },
+        {
+          "description": "I loved the clean layout and fast performance of this project. The transitions and animations feel professional, and the code structure is well-organized. It’s a great example of how React can be used to build elegant user interfaces.",
+          "name": "John wangdu – Frontend Developer"
         }
       ]
   }
