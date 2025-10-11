@@ -46,7 +46,6 @@ let resumeData = {
      
       {
         "CompanyName":"Zidio Develelopment Pvt Ltd",
-        "specialization":"Some specialization",
         "MonthOfLeaving":"Aug",
         "YearOfLeaving":"2025",
         "Achievements":"During my internship, I had the opportunity to work on two major full-stact projects that helped me grow both technicall and professionally. Excel Analytics platform i built a compelete ata visualization like file upload & parsing using Node.js and xlsx Real-time 2D/3D chart rendering using chart.js and Three.js, Exporting charts as PNG, JPEG and PDF AI-based suggestions  from structured data. * Blogging Platform (Voxa Blog) i developed a full-featured blogging system with rich content creation and social features like Authentication using JWT and role-based access control image uploads using Cloudinary and content editing with  React-Quill Like, Comment, and Profile systems for user engagement."
