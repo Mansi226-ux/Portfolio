@@ -1,10 +1,10 @@
 let resumeData = {
    
   "name": "Mansi Sahu",
-  "role": "Frontend Developer",
+  "role": "Software Develper",
   "mailId": "sahumansi7569@gmail.com",
-  "contactNumber": "+91 7995957569",
-  "skypeid": "https://www.facebook.com/profile.php?id=61558975799201",
+  "contactNumber": "+91 6268797569",
+  "skypeid": "https://www.linkedin.com/in/mansi-sahu-1354b630a",
   "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
   "socialLinks": [
     {
@@ -18,25 +18,25 @@ let resumeData = {
       "className": "fa fa-instagram"
     },
     {
-      "name": "skype",
+      "name": "Github",
       "url": "https://github.com/Mansi226-ux",
       "className": "fa fa-github"
     }
   ],
   "aboutme": "I am currently a pre-final year student at The DAVV University and pursuing my MSC from here. I am a self taught frontend Web Developer, currently diving deeper into Backend  Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
   "address": "India",
-  "website": "https://github.com/Mansi226-ux/Portfolio",
+  "website": "https://showingskills-6242bfs.netlify.app/#home",
   "education": [
     {
       "UniversityName": "Government Holkar Science College, Indore",
-      "specialization": "MSc. in Computer Science",
+      "specialization": "M.Sc in Computer Science",
       "MonthOfPassing": "july",
       "YearOfPassing": "2026",
       "Achievements": " Awarded the university’s Distinguished Research Grant for innovative projects on renewable energy resources."
     },
     {
       "UniversityName":"Government Holkar Science College, Indore",
-      "specialization":"BSc. in Computer Science",
+      "specialization":"B.Sc in Computer Science",
       "MonthOfPassing":"July",
       "YearOfPassing":"2024",
       "Achievements":" Awarded the university’s Distinguished Research Grant for innovative projects on renewable energy resources."
@@ -46,15 +46,14 @@ let resumeData = {
      
       {
         "CompanyName":"Zidio Develelopment Pvt Ltd",
-        "MonthOfLeaving":"Aug",
-        "YearOfLeaving":"2025",
+        "MonthOfLeaving":"May 2025 - Aug2025",
         "Achievements":"During my internship, I had the opportunity to work on two major full-stact projects that helped me grow both technicall and professionally. Excel Analytics platform i built a compelete ata visualization like file upload & parsing using Node.js and xlsx Real-time 2D/3D chart rendering using chart.js and Three.js, Exporting charts as PNG, JPEG and PDF AI-based suggestions  from structured data. * Blogging Platform (Voxa Blog) i developed a full-featured blogging system with rich content creation and social features like Authentication using JWT and role-based access control image uploads using Cloudinary and content editing with  React-Quill Like, Comment, and Profile systems for user engagement."
       },
     {
       "CompanyName": "YPSILON IT SOLUTION",
       "specialization": "Designed and tested UI Component for web applications, utilizing HTML, CSS, JavaScript , BootStrap and React JS  to enhance user experience.",
-      "MonthOfLeaving": "Nov",
-      "YearOfLeaving": "2024",
+      "MonthOfLeaving": "Aug 2024 - Oct 2024",
+      
       "Achievements": "Developed REST fullservices using Node.js and Express, integrating JSON Web Token for secure authorization mechanisms.  *Designed and tested UI Component for web applications, utilizing HTML, CSS, JavaScript, BootStrap and React JS  to enhance user experience.  *Validate input before submitting to the backend.  *Translated user and business needs into functional front - end design using Javascript, HTML, and CSS.  *Worked on the development of user interface for Stealth(identity) from scratch."
     }
       
@@ -69,6 +68,8 @@ let resumeData = {
     },
     {
       "skillname": "javascript"
+    },{
+      "skillname": "Python"
     },
     {
       "skillname": "reactjs"
@@ -87,27 +88,29 @@ let resumeData = {
      },
       {
       "skillname": "bootstrap"
-      }
+      }{
+      "skillname": "Github"
+    },
   ],
     "portfolio": [
       {
         "name": "Voxa Blog",
-        "description": "Developed a full-featured blogging system with rich content creation and social features.",
+        "description": "https://github.com/Mansi226-ux/Voxa",
         "imgurl": "images/Voxa.png.png"   
      },
       {
         "name": "Excel Analytics Platform",
-        "description": "I builded a complete data visualization tool with real-time 2D/3D chart rendering and AI-based suggestions.",
+        "description": "https://github.com/Mansi226-ux/Excel_Analytic",
         "imgurl": "images/Surfacechart.png.png"
       },
       {
         "name": "E-commerce Website",
-        "description": "An e-commerce website with features like product listing, user authentication, and payment integration.",
+        "description": "https://github.com/Mansi226-ux/E-commerce",
         "imgurl": "images/portfolio/ecommerceimg.avif"
       },
       {
         "name": "Job-Posting Platform",
-        "description": "A job-posting platform that connects employers with potential candidates, featuring job listings, applications, and user profiles.",
+        "description": "https://github.com/Mansi226-ux/Job-Hunt",
         "imgurl": "images/jobpost.webp"
       }
     ],
