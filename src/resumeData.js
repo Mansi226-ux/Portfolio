@@ -24,7 +24,7 @@ let resumeData = {
     }
   ],
   "aboutme": "I am currently a pre-final year student at The DAVV University and pursuing my MSC from here. I am a self taught frontend Web Developer, currently diving deeper into Backend  Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-  "address": "India",
+  "address": "Pune, Maharashtra",
   "website": "https://showingskills-6242bfs.netlify.app/#home",
   "education": [
     {
@@ -50,7 +50,7 @@ let resumeData = {
         "Achievements":"During my internship, I had the opportunity to work on two major full-stact projects that helped me grow both technicall and professionally. Excel Analytics platform i built a compelete ata visualization like file upload & parsing using Node.js and xlsx Real-time 2D/3D chart rendering using chart.js and Three.js, Exporting charts as PNG, JPEG and PDF AI-based suggestions  from structured data. * Blogging Platform (Voxa Blog) i developed a full-featured blogging system with rich content creation and social features like Authentication using JWT and role-based access control image uploads using Cloudinary and content editing with  React-Quill Like, Comment, and Profile systems for user engagement."
       },
     {
-      "CompanyName": "YPSILON IT SOLUTION",
+      "CompanyName": "Ypsilon IT Solution",
       "specialization": "Designed and tested UI Component for web applications, utilizing HTML, CSS, JavaScript , BootStrap and React JS  to enhance user experience.",
       "MonthOfLeaving": "Aug 2024 - Oct 2024",
       
