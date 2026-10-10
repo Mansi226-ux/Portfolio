@@ -43,6 +43,6 @@ Tech Stack: MERN Stack, Chart.js, Three.js,
 📫 Connect With Me
 
 - GitHub: https://github.com/Mansi226-ux
-- Linkedin:
+- Linkedin: https://www.linkedin.com/in/mansi-sahu-1354b630a
 
 Thank you for visiting my portfolio!
