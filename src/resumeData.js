@@ -88,7 +88,8 @@ let resumeData = {
      },
       {
       "skillname": "bootstrap"
-      }{
+      },
+     {
       "skillname": "Github"
     },
   ],
