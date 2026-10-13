@@ -46,12 +46,13 @@ let resumeData = {
      
       {
         "CompanyName":"Zidio Develelopment Pvt Ltd",
+         "specialization": "Frontend Development Intern",
         "MonthOfLeaving":"May 2025 - Aug2025",
         "Achievements":"During my internship, I had the opportunity to work on two major full-stact projects that helped me grow both technicall and professionally. Excel Analytics platform i built a compelete ata visualization like file upload & parsing using Node.js and xlsx Real-time 2D/3D chart rendering using chart.js and Three.js, Exporting charts as PNG, JPEG and PDF AI-based suggestions  from structured data. * Blogging Platform (Voxa Blog) i developed a full-featured blogging system with rich content creation and social features like Authentication using JWT and role-based access control image uploads using Cloudinary and content editing with  React-Quill Like, Comment, and Profile systems for user engagement."
       },
     {
       "CompanyName": "Ypsilon IT Solution",
-      "specialization": "Designed and tested UI Component for web applications, utilizing HTML, CSS, JavaScript , BootStrap and React JS  to enhance user experience.",
+      "specialization": "Web Development Intern(MERN Stack)",
       "MonthOfLeaving": "Aug 2024 - Oct 2024",
       
       "Achievements": "Developed REST fullservices using Node.js and Express, integrating JSON Web Token for secure authorization mechanisms.  *Designed and tested UI Component for web applications, utilizing HTML, CSS, JavaScript, BootStrap and React JS  to enhance user experience.  *Validate input before submitting to the backend.  *Translated user and business needs into functional front - end design using Javascript, HTML, and CSS.  *Worked on the development of user interface for Stealth(identity) from scratch."
