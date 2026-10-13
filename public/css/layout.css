@@ -345,6 +345,11 @@ ul#nav li.current a { color: #F06000; }
    -moz-animation: css 2s ease;
    -webkit-animation: css 2s ease;
 }
+.python{
+   width: 75%;
+   -moz-animation: css 2s ease;
+   -webkit-animation: css 2s ease;
+}
 .nodejs {
    width: 50%;
    -moz-animation: css 2s ease;
@@ -376,6 +381,11 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
+.github {
+  	width: 55%;
+  	-moz-animation: html5 2s ease;
+  	-webkit-animation: html5 2s ease;
+}
  
 
 @-moz-keyframes html {
@@ -394,11 +404,19 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 90%;  }
 }
+@-moz-keyframes python {
+  0%   { width: 0px;  }
+  100% { width: 90%;  }
+}
 @-moz-keyframes nodejs {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
 @-moz-keyframes express {
+  0%   { width: 0px;  }
+  100% { width: 50%;  }
+}
+@-moz-keyframes github {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
@@ -419,11 +437,19 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 90%;  }
 }
+@-webkit-keyframes python {
+  0%   { width: 0px;  }
+  100% { width: 90%;  }
+}
 @-webkit-keyframes nodejs {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
 @-webkit-keyframes  express {
+  0%   { width: 0px;  }
+  100% { width: 50%;  }
+}
+@-moz-keyframes github {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
