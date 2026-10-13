@@ -1,7 +1,7 @@
 let resumeData = {
    
   "name": "Mansi Sahu",
-  "role": "Software Develper",
+  "role": "Software Developer",
   "mailId": "sahumansi7569@gmail.com",
   "contactNumber": "+91 6268797569",
   "skypeid": "https://www.linkedin.com/in/mansi-sahu-1354b630a",
